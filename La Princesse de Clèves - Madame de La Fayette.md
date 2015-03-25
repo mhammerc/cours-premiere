@@ -26,7 +26,12 @@ Il s'agit d'une jeune fille à l'âge nubille (en âge de procréer) dû à son 
 
 Le portrait de la jeune fille est supplanté par le portrait moral de sa mère livrant des élèments sur le passé de la jeune fille. Madame de chartre devient ainsi le sujet. Cette mère est présenté comme exceptionnel, doté de nombreuses qualités comme l'indique l'énumération contenant du vocabulaire axialogique "*Le bien, la vertu et le mérite*". Ces qualités sont encore une fois présenté de manière hyperbolique car elles sont "*extraordinaire*", "*glorieuse*"
 
-* *B) Grand B*
-  * XX
-  * XX
-  * XX
+* *B) Le programme éducatif*
+
+La mère portait tout son attention à l'éducation de la fille comme l'illustre l'énumération qui utilise des expressions verbales. Cette accumulation indique le soucis d'exostivité qu'a la mère concernant les apprentissages et cette éducation est essentiellement morale ("*cultiver l'esprit*"). Cette éducation est présenté comme originale. La plupart des mères pensent que il faut laisser les jeunes fille dans l'ignorance "*ne jamais parler de galanterie*" alors que Madame de chartre a ce soucis de ne rien cacher à sa fille de la galanterie qui règne à la cours d'ou l'accumulation des expressions verbales car celle-ci préfèrent former le libre arbitre des jeunes filles.
+
+*  *C) Une peinture hostile aux moeurs de la cours de Louis XIV*
+
+La cours est un lieu ou l'on croise de belle personnes. Le portrait des hommes est peu flatteur (car ils pensent à l'infidélité toussa toussa donc ça crée des malheurs domestiques). Les femmes sont qualifiées d'honnêtes. Elle conseillent d'aimer son maris. Elles recommandent la vertu car l'infidélité conduit forcément à la perte. On retrouve deux propositions exclamatives, manière emphatique d'inviter sa fille à avoir un comportement vertueux. Ainsi on a une oeuvre édifiante qui est là aussi pour instruire les jeunes filles car cette oeuvre condamne les passions. Cet enseignement va être tenu par l'héroïne.
+
+**Conclusion :**
