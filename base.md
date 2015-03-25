@@ -17,7 +17,6 @@ Petite intro rapide
   * XX
   * XX
   * XX
-
 * *B) Grand B*
   * XX
   * XX
@@ -28,7 +27,6 @@ Petite intro rapide
   * XX
   * XX
   * XX
-
 * *B) Grand B*
   * XX
   * XX
