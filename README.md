@@ -1,2 +1,2 @@
-# Fiches de révisions des cours de Français de 1°S
-Fiches de révisions des cours de Français de 1°S
+#### Fiches de révisions pour les lectures analytiques des cours de Français de 1°S
+Utilisation libre pour tous.
