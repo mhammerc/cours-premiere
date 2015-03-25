@@ -13,6 +13,7 @@ Mme de La Fayette -> femme de lettre française (*Marie Madelaine Pioche de la V
 
 **I) Un portrait physique à peine esquissé**
 * *A) Une entrée en scène très attendue*
+
 Première apparition de l'héroïne dans le romans. Le lecteur est donc impatient de découvrir le personnage éponyme. Utilisation de l'adverbe *alors* qui annonce l'arrivé d'un événement qui bouscule la situation initiale. Description omnisciente. Au début, le narrateur donne le point de vue de la cours comme le relate ce champ lexical de la vue "*attire les yeux*", sens par lequel la cours la découvre. A la fin du passage le point de vue devient interne. On percoit donc le personnage depuis le point de vue du vidame de Chartre. La répétition du verbe *surpris* indique que l'on pénettre la pensée de ce personnage et ce verbe au 17 siècle signifie *saisie au sens fort*.
 * *B) Grand B*
   * XX
