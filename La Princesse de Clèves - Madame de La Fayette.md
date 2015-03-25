@@ -21,11 +21,11 @@ Le personnage est désigné par des termes hyperbolique comme l'indique l'abonda
 
 Il s'agit d'une jeune fille à l'âge nubille (en âge de procréer) dû à son jeune âge (16) et donc son extrême jeunesse. De plus elle est désigné par "*sa fille*" à 3 reprises ce qui insiste sur le lien maternelle et la met sous l'autorité de la mère. On nous indique également son origine aristocrate et noble ("*héritière*"). De plus les quelques indications physiques à la fin du passage "*Blancheur cheveux blonds*" ne font que de dresser des caractéristiques physiques qui correspondent aux canons de l'idéal féminin classique qui ne sont que des indices d'appartenance à l'aristocratie. Ainsi, l'entrée à la cours a pour but le mariage de l'héroïne mais jusque mtn, Mme. de charte n'a rien trouvé de digne pour sa fille.
 
-**II) Grand II**
-* *A) Grand A*
-  * XX
-  * XX
-  * XX
+**II) Un portrait moral très révélateur**
+* *A) Une généalogie idéalisé*
+
+Le portrait de la jeune fille est supplanté par le portrait moral de sa mère livrant des élèments sur le passé de la jeune fille. Madame de chartre devient ainsi le sujet. Cette mère est présenté comme exceptionnel, doté de nombreuses qualités comme l'indique l'énumération contenant du vocabulaire axialogique "*Le bien, la vertu et le mérite*". Ces qualités sont encore une fois présenté de manière hyperbolique car elles sont "*extraordinaire*", "*glorieuse*"
+
 * *B) Grand B*
   * XX
   * XX
