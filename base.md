@@ -10,6 +10,8 @@
 
 **Problématique :** *La problématique*
 
+Petite intro rapide
+
 **I) Grand I**
 * *A) Grand A*
   * XX
