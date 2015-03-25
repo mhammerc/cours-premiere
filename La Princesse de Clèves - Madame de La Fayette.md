@@ -34,4 +34,4 @@ La mère portait tout son attention à l'éducation de la fille comme l'illustre
 
 La cours est un lieu ou l'on croise de belle personnes. Le portrait des hommes est peu flatteur (car ils pensent à l'infidélité toussa toussa donc ça crée des malheurs domestiques). Les femmes sont qualifiées d'honnêtes. Elle conseillent d'aimer son maris. Elles recommandent la vertu car l'infidélité conduit forcément à la perte. On retrouve deux propositions exclamatives, manière emphatique d'inviter sa fille à avoir un comportement vertueux. Ainsi on a une oeuvre édifiante qui est là aussi pour instruire les jeunes filles car cette oeuvre condamne les passions. Cet enseignement va être tenu par l'héroïne.
 
-**Conclusion :**
+**Conclusion :** Madame de la Fayette dénonce gravement l'attirance des hommes envers les femmes en montrant que les femmens ne possèdent pas uniquement une caractéristique physique (en décrivant le physique peu mais le moral beaucoup). Elle démontre aussi l'éducation des jeunes femme qui n'est pas correct. En soi, Madame de La Fayette démontre que les relations hoomes-femmes nobles sont à revoir.
