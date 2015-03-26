@@ -14,20 +14,16 @@ Petite intro rapide
 
 **I) Grand I**
 * *A) Grand A*
-  * XX
-  * XX
-  * XX
+
+XX
 * *B) Grand B*
-  * XX
-  * XX
-  * XX
+
+XX
 
 **II) Grand II**
 * *A) Grand A*
-  * XX
-  * XX
-  * XX
+
+XX
 * *B) Grand B*
-  * XX
-  * XX
-  * XX
+
+XX
