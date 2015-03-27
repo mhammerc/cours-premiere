@@ -29,12 +29,18 @@ Il s'agit de dresser le portrait d'une "*vielle fille*" vierge -> une femme non 
 
 * *C) Le portrait physique*
 
-Elle est contraire aux canons de la beauté
+Elle est contraire aux canons de la beauté, son portrait est peu élogieux, elle est loin d'être belle. Brune, maigre, yeux noir, mono sourcil. Bras long et fort comme chez l'animal. "*Loin d'être belle*" (l2). Pilosité fort développé. Caractère plutôt masculin. De plus dans l'énumération l5, le narateur indique que les membres inférieurs sembles identique au membres supérieur -> les bras longs comme c'est le cas chez les animaux. Elle est adaptée au milieu montagnard. C'est l'isotopie, l'adaptation à un milieu. Hormis l'apparence de chèvre elle est aussi associé à un singe car le narrateur utilise le substantif face et non pas visage. Présence de verrus -> allusions aux sorcières. Ce portrait devient donc petit à petit une véritable caricature.
 
-**II) Grand II**
-* *A) Grand A*
+**II) Un portrait psychologisant qui se construit entre les cousins**
+* *A) Un portrait marqué par la comparaison*
 
-XX
+Dès le début le narrateur fait des comparaisons d'infériorités : malgrés la fraicheur de sa jeunesse, sa cousine est beaucoup plus jolie qu'elle comme l'indique le comparatif d'infériorité "*moins âgé que*".
+
+*Immolé la fille vulgaire | à la jolie fille* -> chiasme (vulgaire = commune/banal). 2 adjéctif antithétique s'opposent.
+
+*le fruit âpre | à la fleur éclatante*
+
+
 * *B) Grand B*
 
 XX
