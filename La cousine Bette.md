@@ -7,7 +7,10 @@
     * *C) Le portrait physique*
 * **II) Un portrait psychologisant qui se construit entre les cousins**
     * *A) Un portrait marqué par la comparaison*
+    * *B) Grand B*
 * **III) Une disgression explicative et entropologique**
+	* *A) Une disgression explicative qui interormpt le récit*
+	* *B) La civilisation comme remède à la nature*
 
 **Problématique :** *Comment s'organise le portrait de l'héroïne éponyme ?*
 
@@ -40,7 +43,28 @@ Dès le début le narrateur fait des comparaisons d'infériorités : malgrés la
 
 *le fruit âpre | à la fleur éclatante*
 
+Ligne 14 -> 21 : Lisbeth est à sa cousine ce que sont les frères et soeurs de Napoléon à Napoléon. On a l'ironie du narateur par antiphrase "adeline est bonne et douce alors que non". Les comparaisons construisent une analyse psychologique du prsonnage. Lisbeth a été prodigieusement jalouse d'Adeline -> superlatif absolu pour insister sur le caractère hors norme et la jalousie furieuse de Lisbeth. Balzac définit ici le caractère extraordinaire hors norme hors du commun de la pathologie de lisbeth. Cette pathologie est désigné par Balzac de nonomanie pour se venger de sa cousine.
+
 
 * *B) Grand B*
 
-XX
+Balzac tente d'expliquer le comportement de Lisbeth par une blessure originel opéré par la famine qui se situe dans son enfance. Le narateur s'attarde à relater une anecdote grâce à l'analepse introduit par "un jour". Lisbeth veut arracher le nez de sa cousine. Ce nez est qualifié de grec. C'est à dire un nez comme des statues grec aux formes et proportions idéales. Elle s'attaque à la perfection d'adeline.
+
+**III) Une disgression explicative et entropologique**
+* *A) Une disgression explicative qui interormpt le récit*
+
+Dès la ligne 30 le narrateur s'attarde à porter une thèse entropologique. Utilisation du discours explicatif pour démontrer expliquer la différence entre homme sauvage et civilisé.
+
+* Il cesse d'utiliser les temps de la narration et utilise le présent gnomique afin d'énoncer la vérité général
+* Il utilise également des connecteurs logique pour structurer sa réflexion et structurer son rasionnement. "Aussi", "alors", "tandis que", "de cause", "de même que"
+* Omniprésence d'un vocabulaire spécifique au domaine de l'entropologie
+
+La démonstration pars du cas particulier de l'expérience de la cousine Bette pour analyser le cas général d'une catégorie d'individus à savoir l'homme naturel. Le raisonement est inductif.
+
+* *B) La civilisation comme remède à la nature*
+
+Balzac livre une thèse qui tente de démontrer la supériorité de l'homme civilisé qui parvient à dominer ses tentations. En effet, la stratégie argumentative de Balzac s'appuie sur une comparaison du fonctionnement psychologique entre l'homme civilisé et l'homme naturel. Cette comparaison vise à démontrer la présence d'une monomanie chez lm'homme naturel.
+
+* Présence du singulier qui manifeste une intervention d'une idée unique chez le sauvahe alors que l'emploi du pluriel montre la multipliocité des interventions chez le civilisé "*des sentiments et des idées*" "*1000 intêrets*"
+* Les sentiments monomaniaques occupent toute la place chez le sauvage "*une idée à la fois*"
+En effet Balzac pense que la civilisation vient réprimer, apprivoiser, nuancer les pulsions instinctives présente chez l'homme primitif.
