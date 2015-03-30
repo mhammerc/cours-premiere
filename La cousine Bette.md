@@ -60,7 +60,7 @@ La démonstration pars du cas particulier de l'expérience de la cousine Bette p
 
 * *B) La civilisation comme remède à la nature*
 
-Balzac livre une thèse qui tente de démontrer la supériorité de l'homme civilisé qui parvient à dominer ses tentations. En effet, la stratégie argumentative de Balzac s'appuie sur une comparaison du fonctionnement psychologique entre l'homme civilisé et l'homme naturel. Cette comparaison vise à démontrer la présence d'une *monomanie* chez lm'homme naturel.
+Balzac livre une thèse qui tente de démontrer la supériorité de l'homme civilisé qui parvient à dominer ses tentations. En effet, la stratégie argumentative de Balzac s'appuie sur une comparaison du fonctionnement psychologique entre l'homme civilisé et l'homme naturel. Cette comparaison vise à démontrer la présence d'une *monomanie* chez l'homme naturel.
 
 * Présence du singulier qui manifeste une intervention d'une idée unique chez le sauvage alors que l'emploi du pluriel montre la multiplicité des interventions chez le civilisé "*des sentiments et des idées*" "*1000 intêrets*"
 * Les sentiments monomaniaques occupent toute la place chez le sauvage "*une idée à la fois*"
