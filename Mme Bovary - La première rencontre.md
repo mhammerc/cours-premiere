@@ -29,13 +29,13 @@ La description d'Emma Rouault est organisé selon le point de vu interne de Char
 
 * *C) La narration, une rencontre sensuelle*
 
-* Jeu entre l'alternance des discours descriptifs et narratif mais au sein du discours narratif on perçoit divers techniques d'élaboration : l'auteur utilise des différents rythmes de narration : l'objet des visites de Charles est de soigner le père hors les passages chargé de relativer la visite médicale sont évoqué très rapidement par des sommaires. Le dernier paragraphe opère une ellpise et se termine par un sommaire pour indiquer les intentions de Charles de revenir voir la jeune fille.
-* Jeu avec les différents discours rapportés qui font surgir des bribes de conversation :
-  * Par. 2 -> italique conditionnel : prendre un morceau caractèrise le parlé paysant de M. Rouault.
-  * Par. 4 -> discours naratirisé puisque on a un verbe qui montre l'activité de parole.
-* Discours indirect libre "Monsieur Rouault ne s'amusait guerre" l21 *ne... guerre* -> littote : elle s'ennuie terriblement et n'a aucun gout pour la vie à la campagne.
-* Discours narrativisé, on résume jusqu'à la ligne 35 + discours direct et incises
-* Par. 6 : discours direct marque typographique et incises. Contact physique en position sensuelle : la poitrine de Charles effleure le dos d'Emma (je vous laisse imaginer la position...) -> position sudjective. Tout ceci annonce aussi l'impossibilité d'une rencontre amoureuse traditionelle.
+ * Jeu entre l'alternance des discours descriptifs et narratif mais au sein du discours narratif on perçoit divers techniques d'élaboration : l'auteur utilise des différents rythmes de narration : l'objet des visites de Charles est de soigner le père hors les passages chargé de relativer la visite médicale sont évoqué très rapidement par des sommaires. Le dernier paragraphe opère une ellpise et se termine par un sommaire pour indiquer les intentions de Charles de revenir voir la jeune fille.
+ * Jeu avec les différents discours rapportés qui font surgir des bribes de conversation :
+ * Par. 2 -> italique conditionnel : prendre un morceau caractèrise le parlé paysant de M. Rouault.
+ * Par. 4 -> discours naratirisé puisque on a un verbe qui montre l'activité de parole.
+ * Discours indirect libre "Monsieur Rouault ne s'amusait guerre" l21 *ne... guerre* -> littote : elle s'ennuie terriblement et n'a aucun gout pour la vie à la campagne.
+ * Discours narrativisé, on résume jusqu'à la ligne 35 + discours direct et incises
+ * Par. 6 : discours direct marque typographique et incises. Contact physique en position sensuelle : la poitrine de Charles effleure le dos d'Emma (je vous laisse imaginer la position...) -> position sudjective. Tout ceci annonce aussi l'impossibilité d'une rencontre amoureuse traditionelle.
 
 **II) La présence de l'ironie Flobersienne**
 
