@@ -48,4 +48,4 @@ Le paragraphe 3 indique la hiérarchie des centres d'intérêts de Charles car s
 Présentation associé à Emma (positive|négative) : 
 * ongle: positif -> description qui dénote les soins du personnage
 * main: négatif -> accumulation d'adverbedépréciatif portant un peu la présence de la négation. Sa main ne présente pas l'idéal de la beauté féminine -> travail à la ferme -> sécheresse -> absence de *molesse* (absence de grosseur) -> tâches ménagères
-* yeux: positif -> la formule empathique utilise le présentatif comme exceptionnel "ce qu'elle avait de bien" mais aussitôt après la description devient dépréciative puisque non conforme au canons de l'idéal féminin classique
+* yeux: positif -> la formule empathique utilise le présentatif comme exceptionnel "ce qu'elle avait de bien" mais aussitôt après la description devient dépréciative puisque non conforme au canons de l'idéal féminin classique. La chevelure est longuement décrite. Cette coiffure est marqué par la grâce. On retrouve les adjectifs "*lisse*"
