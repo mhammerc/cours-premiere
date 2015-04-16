@@ -47,11 +47,11 @@ Le paragraphe 3 indique la hiérarchie des centres d'intérêts de Charles car s
 * *B) Un blason marqué aussi par la dualité*
 
 Présentation associé à Emma (positive|négative) : 
-* ongle: positif -> description qui dénote les soins du personnage
-* main: négatif -> accumulation d'adverbedépréciatif portant un peu la présence de la négation. Sa main ne présente pas l'idéal de la beauté féminine -> travail à la ferme -> sécheresse -> absence de *molesse* (absence de grosseur) -> tâches ménagères
-* yeux: positif -> la formule empathique utilise le présentatif comme exceptionnel "ce qu'elle avait de bien" mais aussitôt après la description devient dépréciative puisque non conforme au canons de l'idéal féminin classique. 
-* La chevelure est longuement décrite. Cette coiffure est marqué par la grâce. On retrouve les adjectifs "*lisse*", "*fin*", le mouvement "*ondé*". On retrouve aussi la pudeur : "*légérement*" et "*laissant voir à peine*" mais aussi l'ordre : "*deux bandeaux*", "*un seul morceau*", "*raie*". Assonance en 'é' et allitération  en 's' qui renforce l'impression de mouvement de cette chevelure. 
-* Emma est présentée comme une femme sensuelle mais qui présente aussi des caractéristiques virils -> elle exécute les travaux de la ferme et porte le lorgnon à la manière des hommes. De plus c'est elle qui a "*la cravache*" "*nerd de boeuf*", artifices on ne peut plus masculin et bien sur c'est un sous entendu *grivois*.
+  * ongle: positif -> description qui dénote les soins du personnage
+  * main: négatif -> accumulation d'adverbedépréciatif portant un peu la présence de la négation. Sa main ne présente pas l'idéal de la beauté féminine -> travail à la ferme -> sécheresse -> absence de *molesse* (absence de grosseur) -> tâches ménagères
+  * yeux: positif -> la formule empathique utilise le présentatif comme exceptionnel "ce qu'elle avait de bien" mais aussitôt après la description devient dépréciative puisque non conforme au canons de l'idéal féminin classique. 
+  * La chevelure est longuement décrite. Cette coiffure est marqué par la grâce. On retrouve les adjectifs "*lisse*", "*fin*", le mouvement "*ondé*". On retrouve aussi la pudeur : "*légérement*" et "*laissant voir à peine*" mais aussi l'ordre : "*deux bandeaux*", "*un seul morceau*", "*raie*". Assonance en 'é' et allitération  en 's' qui renforce l'impression de mouvement de cette chevelure. 
+  * Emma est présentée comme une femme sensuelle mais qui présente aussi des caractéristiques virils -> elle exécute les travaux de la ferme et porte le lorgnon à la manière des hommes. De plus c'est elle qui a "*la cravache*" "*nerd de boeuf*", artifices on ne peut plus masculin et bien sur c'est un sous entendu *grivois*.
 
 * *C) "Madame Bovary c'est moi", hésitation de Flaubert entre réalisme et romantisme*
 
