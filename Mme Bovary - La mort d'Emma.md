@@ -9,6 +9,8 @@
     * *A) Un tableau fortement dramatisé aux accents pathéthiques*
     * *B) Un tableau aux accents ironiques*
 * **III) Une polyphonie symbolique**
+    * *A) Le coup de théatre introduit par l'aveugle*
+    * *B) Superposition des discours*
 
 **Problématique :** *Comment est présenté le récit de l'agonie finale de l'héroine*
 
