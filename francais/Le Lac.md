@@ -37,7 +37,7 @@ Le poète ne livre que très peu d'indications sur cette femme qui apparait prog
 
 La tristesse du poète apparait à travers la ponctuation du poème :
   * La modalité exclamative (v5, 7, 8) traduit la tristesse de ses émotions. La modalité exclamative est renforcée d'ailleurs par l'apostrophe élégiaque "Ô lac!" v5 renforcée par l'interjection "Ô" qui traduit la douleur du poète qui se confie.
-  * La modalité interrogative (v4 et v13) met également en valeur la tristesse de la plainte. Le lac, confident intime du poète est le témoin des heures passés délicieuses vécues à deux, puis de la solitude présente du poète. Ainsi, l'interrogation "t'en souvient-il" V13 évoque la persistanc de la mémoire d'un moment heureux.
+  * La modalité interrogative (v4 et v13) met également en valeur la tristesse de la plainte. Le lac, confident intime du poète est le témoin des heures passés délicieuses vécues à deux, puis de la solitude présente du poète. Ainsi, l'interrogation "t'en souvient-il" V13 évoque la persistance de la mémoire d'un moment heureux.
 
 La mélancolie du poète est également accentuée par le choix du lieu : le poète assis au bord du lac du Bourget est de retour sur les lieux où il a jadis passé du temps avec Julie, sa bien-aimée. Le lieu est donc porteur d'une charge émotionnelle importante puisqu'il :
   * Rappelle un souvenir heureux d'une promenade romantique
@@ -47,18 +47,20 @@ Le locuteur est désormais seul face au lac
   * cf. l'adjectif "seul" v7
   * Les temps différents pour introduire le même verbe "s'asseoir" souline le décalage entre présent malheureux "je viens m'asseoir" v6 et le passé heureux "où tu la vie s'asseoir" v8. L'opposition entre passé heureux et présent douloureux souligne avec cruauté ce changement de situation.
 
-  Ce poème élégiaque exprime un lyrisme inédit, la mélancolie romantique qui nest plus définie comme une maladie liée au déséquilibre des humeurs (trop de bile noire) mais comme la tristesse d'un coeur esseulé.
+Ce poème élégiaque exprime un lyrisme inédit, la mélancolie romantique qui nest plus définie comme une maladie liée au déséquilibre des humeurs (trop de bile noire) mais comme la tristesse d'un coeur esseulé.
 
 #### C) La nature, reflet des émotions
 
 La description du lac, paysage naturel reflète les sentiments des amoureux :
   * Dès le 3 paragraphe, lorsque le poète relate le début de la rencontre, la nature est décrite dans son déchainement avec la succession des verbes d'action "tu mugissais... tu te brisais" amplifié par la répétition de l'adverbe "ainsi". "Mugir" désigne le cri prolongé, vibrant avec force d'un animal, ici il est attribué au sens figuré au lac. Le cadre ainsi décrit correspond à l'esthétique romantique de la nature miroir de l'âme, le déchainement naturel mime les turpitudes de l'âme nouvellement tourmentée par les désordres de la passion.
   * Dans le 4 paragraphe, lorsque le souvenir se précise et évoque la douceur de la promenade en barque des amants enfin unis "nous voguions" la nature est apaisée : l'écume semble se prosterner à "ses pieds", "le flot fut attentif" v19. Transfigurés par la voix de la bien aimée, le lac et son rivage sont personnifiés "du rivage charmé... / Le flot fut attentif" v19-18, ils manifestent la même admiaration que le poète pour les paroles de la femme.
+
 Le poème met en parallèle l'état des éléments naturels à l'état de la passion des amants. Le lac, mû par le vent s'apaise au fil de l'aventure amoureuse.
 
 De même, ce décor qui encadre le passé heureux et la douleur présente, comporte deux attitudes :
   * La description du lac tantôt nature déchainée reflète le coeur endeuillé du poète qui souffre
   * Tantôt nature paisible et accueillante, est le miroir d'n souvenir bienheureux.
+
 Cette hamonie entre l'âme et la nature est la marque de la mélancolie romantique.
 
 #### D) Une musicalité évocatrice
@@ -97,6 +99,7 @@ De ce fait, l'homme est fatalement impuissant et ne peut lutter contre le temps 
   * Les deux participes passés, de sens passif "poussés" v1, "emportés" v2 montrent l'homme impuissant face à la fatalité.
   * Le "nous passons !" v36 laisse apparaitre l'implacable loi du devenir des hommes.
   * La phrase inaugurale de type interrogatif et de forme négative : "Ne pourrons-nous jamais sur l'océan des âges / Jeter l'ancre" démontre grâce à la métaphore l'impossible arrêt du temps. La phrase interrogative n'est qu'une question oratoire qui déplore le constat de cette fuite du temps.
+
 Le poème déplore la fuite du temps, dans les paroles de la disparue ou dans les propos du poète qui se font écho ; ils soulignent tous les deux le souhait de rompre la fuite inexorable du temps.
 
 #### B) Invitation au carpe diem
