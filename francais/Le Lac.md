@@ -17,7 +17,7 @@ Depuis toujours, le lyrisme est présent en poésie. Son origine s'installe depu
 
 ## I) Un souvenir aux accents lyriques
 
-**A) Un souvenir qui se structure progressivement**
+#### A) Un souvenir qui se structure progressivement
 
 Les 5 premiers paragraphes laissent entendre la voix du poète qui évoque sa propre expérience. Le poète est donc le locuteur principal, il s'exprime avec le pronom personnel de la première personne *je*.
 Le poète s'adresse au lac. Son interlocuteur est le lac qu'il personnifie car il est le destinataire de ses paroles :
@@ -28,7 +28,7 @@ Le poète s'adresse au lac. Son interlocuteur est le lac qu'il personnifie car i
 
 Dès le 6 paragraphe, le poète rapporte les propos passés de sa bien aimée au style direct introduit par le verbe introducteur de parole "*Laissa tomber ces mots*" (v8). Les deux points et le guillemet indiquent ce changement de voix. Julie s'adresse au temps et aux heures, puis à la nuit comme en attestent les apostrophes (v21) et l'interjection. Elle les personnifie en les interpelant et les tutoyant faisant un effet d'écho avec le discours du poète.
 
-**B) Le motif de la plainte de la perte de la femme aimée**
+#### B) Le motif de la plainte de la perte de la femme aimée
 
 Le poète ne livre que très peu d'indications sur cette femme qui apparait progressivement : 
   * Elle ne possède aucun nom, et est d'abord évoquée avec les pronoms personnels de 3 personne du singulier féminin "elle" v6, "la" v8
@@ -49,7 +49,7 @@ Le locuteur est désormais seul face au lac
 
   Ce poème élégiaque exprime un lyrisme inédit, la mélancolie romantique qui nest plus définie comme une maladie liée au déséquilibre des humeurs (trop de bile noire) mais comme la tristesse d'un coeur esseulé.
 
-**C) La nature, reflet des émotions**
+#### C) La nature, reflet des émotions
 
 La description du lac, paysage naturel reflète les sentiments des amoureux :
   * Dès le 3 paragraphe, lorsque le poète relate le début de la rencontre, la nature est décrite dans son déchainement avec la succession des verbes d'action "tu mugissais... tu te brisais" amplifié par la répétition de l'adverbe "ainsi". "Mugir" désigne le cri prolongé, vibrant avec force d'un animal, ici il est attribué au sens figuré au lac. Le cadre ainsi décrit correspond à l'esthétique romantique de la nature miroir de l'âme, le déchainement naturel mime les turpitudes de l'âme nouvellement tourmentée par les désordres de la passion.
@@ -61,7 +61,7 @@ De même, ce décor qui encadre le passé heureux et la douleur présente, compo
   * Tantôt nature paisible et accueillante, est le miroir d'n souvenir bienheureux.
 Cette hamonie entre l'âme et la nature est la marque de la mélancolie romantique.
 
-**D) Une musicalité évocatrice**
+#### D) Une musicalité évocatrice
 
 Lorsque le poète évoque l'apaisement de la passion des amants, réunis polur une promenade en baque sur un lac apaisé
   * Le lexique (v13 à 20) s'oppose au paragraphe précédent, avec l'emploi des mots évoquant la musique "en cadence... harmonieux".
@@ -78,7 +78,7 @@ Il y a dans "Le Lac", d'une certaine manière, une double plainte, une double d�
 
 ## II) Une reflexion sur la fuite du temps
 
-**A) Eau, topos de la fuite inexorable du temps**
+#### A) Eau, topos de la fuite inexorable du temps
 
 Les deux dimensions, l'eau et le temps se superposent dans le poème puisque le lieu évoqué fait appel au souvenir, au voyage dans le temps mais aussi cette image de l'eay symbolisant la fuite du temps est un topos de la littérature romantique.
 
@@ -99,7 +99,7 @@ De ce fait, l'homme est fatalement impuissant et ne peut lutter contre le temps 
   * La phrase inaugurale de type interrogatif et de forme négative : "Ne pourrons-nous jamais sur l'océan des âges / Jeter l'ancre" démontre grâce à la métaphore l'impossible arrêt du temps. La phrase interrogative n'est qu'une question oratoire qui déplore le constat de cette fuite du temps.
 Le poème déplore la fuite du temps, dans les paroles de la disparue ou dans les propos du poète qui se font écho ; ils soulignent tous les deux le souhait de rompre la fuite inexorable du temps.
 
-**B) Invitation au carpe diem**
+#### B) Invitation au carpe diem
 
 La jeune défunte est convoquée afin de livrer sa réflexion passée sur la fuite du temps :
   * L'intervention de celle-ci commence par la supplication solennelle "Ô temps ! Suspends ton vol, et vous, heures propices ! / Suspendez votre cours" qui utilise deux métaphores : l'image du temps comme un vol et la seconde image associe la fuite du temps à l'eau qui s'écoule. Elle reprend à deux reprises le même verbe à l'impératif "suspendre" pour exprimer son souhait de rompre ce cours inexorable de la vie.
@@ -108,7 +108,7 @@ La jeune défunte est convoquée afin de livrer sa réflexion passée sur la fui
   * Le verbe qui clôt cette liste d'action "jouissons" est à une place importante dans le quatrain : il est placé après son COI "de l'heure fugitive" de qui il est dissocié par un autre verbe "hâtons-nous" et se trouve ainsi placé en fin de vers, en fin de l'hexasyllable, ce qui permet d'insister sur l'invitation à jouir de la vie et met donc en valeur cette invitation de la philosophie épicurienne.
   * Le carpe diem se perçoit également avec la métaphore du fruit à cueillir contenue dans le verbe "savourer" et le nom "délices" v23.
 
-**C) Une subjectivité à portée didactique**
+#### C) Une subjectivité à portée didactique
 
 La succession de phrases injonctives "Aimons donc, aimons donc! de l'heure fugitive / Hatôns-nous, jouissons !" v33-v34
   * Utilisation de l'impératif mais cette fois de 1 personne du pluriel car Julie a changé d'interlocuteur. Ce "nous" la désigne elle et le poète, mais aussi par ricochet le lecteur. L'invitation à savourer les plaisirs de la vie est donc adressée au poète mais aussi à nous, lecteurs, l'ensemble des hommes .
