@@ -67,7 +67,7 @@ Cette hamonie entre l'âme et la nature est la marque de la mélancolie romantiq
 
 #### D) Une musicalité évocatrice
 
-Lorsque le poète évoque l'apaisement de la passion des amants, réunis polur une promenade en baque sur un lac apaisé
+Lorsque le poète évoque l'apaisement de la passion des amants, réunis pour une promenade en barque sur un lac apaisé
   * Le lexique (v13 à 20) s'oppose au paragraphe précédent, avec l'emploi des mots évoquant la musique "en cadence... harmonieux".
   * Le rythme de l'alexandrin, un tétramètre est très musical : "Que le bruit / des rameurs / qui frappaient / en cadence" v15, le rythme, institué par la césure à l'hémistiche et les coupe régulière, mime la mécanique du mouvement régulier des rames frappant la surface des flots en cadence.
   * L'allitération en R mime quant à elle l'écho sonore du ressac. Ainsi nature et poésie s'accordent à l'unisson.
@@ -84,15 +84,15 @@ Il y a dans "Le Lac", d'une certaine manière, une double plainte, une double d�
 
 #### A) Eau, topos de la fuite inexorable du temps
 
-Les deux dimensions, l'eau et le temps se superposent dans le poème puisque le lieu évoqué fait appel au souvenir, au voyage dans le temps mais aussi cette image de l'eay symbolisant la fuite du temps est un topos de la littérature romantique.
+Les deux dimensions, l'eau et le temps se superposent dans le poème puisque le lieu évoqué fait appel au souvenir, au voyage dans le temps mais aussi cette image de l'eau symbolisant la fuite du temps est un topos de la littérature romantique.
 
 L'eau dans l'ensemble du poème, devient la métaphore du temps qui s'écoule comme le manifeste dès le premier paragraphe la métaphore "L'océan des âges". Un premier parallèle s'établit entre l'immensité de l'océan et l'infini du temps par cette association. On repère la présence de 2 champs lexicaux :
   * Le champ lexical de l'eau : "rivage" V1, "l'océan" V3, "jeter l'ancre" V4, "flots chéris" V6, ...
   * Le champ lexical du temps : "éternelle" V1, "âges" V3, "un seul jour" v4, "l'année" V5, ...
 
-Les deux champs lexicaus se mêlent et ainsi le déplacement spatial de l'eau est associé au déroulement chronologique du temps qui s'écoule, commme une métaphore qui se file tout au long du poème. Cette association est déeloppée dans les paroles rapportées de Julie : "L'Homme n'a point de port, le temps n'a point de rive ; / Il voule et nous passons !" (v35-36). L'association se poursuit car le verbe "couler" est initialement utilisé pour parler du déplacement d'un liquide.
+Les deux champs lexicaux se mêlent et ainsi le déplacement spatial de l'eau est associé au déroulement chronologique du temps qui s'écoule, commme une métaphore qui se file tout au long du poème. Cette association est développée dans les paroles rapportées de Julie : "L'Homme n'a point de port, le temps n'a point de rive ; / Il coule et nous passons !" (v35-36). L'association se poursuit car le verbe "couler" est initialement utilisé pour parler du déplacement d'un liquide.
 
-Cet écoulement du temps est caractérisé par un mouvement accéléré qui se manifeste pas :
+Cet écoulement du temps est caractérisé par un mouvement accéléré qui se manifeste par :
   * La récurrence du champ lexical de la précipitation : "le temps m'échappe et fuit" v30, "l'heure fugitive" v33, "rapides délices" v23 et le verbe "hatons-nous" v34
   * les v31-v32 expriment par leur rythme cette rapidité "Je dis à cette nuit : Sois plus lente ; et l'aurore / va dissiper la nuit" : La rapidité de cette phrase, le contre-rejet de l'aurore et le futur proche de "va dissiper" contribuent à créer une impression de précipitation du temps.
 
