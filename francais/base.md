@@ -8,26 +8,24 @@
     * *A) Grand A*
     * *B) Grand B*
 
-**Problématique :** *La problématique*
-
 Petite intro rapide
 
-**I) Grand I**
+## I) Grand I
 
-* *A) Grand A*
-
-XX
-
-* *B) Grand B*
+#### A) Grand A
 
 XX
 
-**II) Grand II**
-
-* *A) Grand A*
+#### B) Grand B
 
 XX
 
-* *B) Grand B*
+## II) Grand II
+
+#### A) Grand A
+
+XX
+
+#### B) Grand B
 
 XX
