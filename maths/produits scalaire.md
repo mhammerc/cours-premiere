@@ -136,7 +136,7 @@ $$\vec{AB} \cdot \vec{AC} = ||\vec{AB}|| \times ||\vec{AC}|| \times cos(\vec{AB}
 
 #### La théorie
 
-Si vous devez calculer un produit scalaire mais que vous ne connaissez que la norme de vos vecteurs et qu'ils ne sont pas colinéaires (et donc vous ne savez pas l'angle, ni les coordonnées) et que vous ne voulez pas faire de projection, alors voici la formule :
+Si vous devez calculer un produit scalaire mais que vous ne connaissez que la norme de vos vecteurs ainsi que la norme du vecteur somme (càd. $$\vec{u} + \vec{v}$$) et qu'ils ne sont pas colinéaires (et donc vous ne savez pas l'angle, ni les coordonnées) et que vous ne voulez pas faire de projection, alors voici la formule :
 
 $$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2} - ||\vec{v}||^{2})$$
 
@@ -148,6 +148,7 @@ Supposons le contexte suivant :
 
 Nous devons calculer le produit scalaire de ces deux vecteurs. Voici le calcul :
 
-$$\vec{AB} \cdot \vec{CD} = \frac{1}{2}(||\vec{AB} + \vec{CD}||^{2} - ||\vec{AB}||^{2} - ||\vec{CD}||^{2}) = \frac{1}{2}(3.65^{2} - 1.41^{2} - 2.24^{2}) = 3.1584$$
+$$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2} - ||\vec{v}||^{2}) = \frac{1}{2}(||\vec{w}||^{2} - ||\vec{u}||^{2} - ||\vec{v}||^{2})$$
+$$= \frac{1}{2}(5.66^2 - 3.16^2 - 3.16^2) = 6.0322$$
 
 Tout simplement !!
