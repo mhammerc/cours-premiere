@@ -12,6 +12,28 @@ Un **produit scalaire** n'est rien d'autre que le produit de deux vecteurs. Ce p
 $$\vec{u} \cdot \vec{v}$$
 Nous n'utilisons pas le signe $$\times$$ (multiplier) mais bien le $$\cdot$$ qui indique un produit scalaire. Ainsi, l'équation précédente se lit "*u scalaire v*".
 
+## Les propriétés mathématiques des produits scalaires
+
+Les produits scalaire, comme la multiplication ou n'importe quel autre élément mathématiques possèdent des propriétés. Celle-ci sont extrêmement simple, prenez le temps de les lire et de les comprendre, vous serez surpris de leur simplicité.
+
+**Propriété une** : Tout comme les multiplications, les produits scalaires se distribuent. Par exemple dans une multiplication nous pouvons avoir ceci : 
+
+$$a*(b+c) = a*b + a*c$$
+
+Ce qui donne en pratique : 
+
+$$3*(5+4) = 3*5 + 3*4$$
+
+C'est la distributivité, rien de plus. Les produits scalaire fonctionnent de la même manière : 
+
+$$\vec{a} \cdot (\vec{b} + \vec{c}) = \vec{a} \cdot \vec{b} + \vec{a} \cdot \vec{c}$$
+
+**Seconde propriété** : On nomme cela *l'homogénéité*. Tout ce qu'il y a à retenir à propos de ceci est que l'on peut déplacer un nombre aisément dans une équation de ce type :
+
+$$\vec{b} \cdot (a * \vec{c}) = a * (\vec{b} \cdot \vec{c})$$
+
+Sachant que $$a$$ est un nombre. Cela peut être pratique pour résoudre ce type d'équation, car au final vous n'avez plus qu'à appliquer un coefficient au résultat d'un produit scalaire.
+
 ## Comment calculer un produit scalaire ?
 
 En fonction des données que vous possédez, voici les différentes manières de calculer un produit scalaire de deux vecteurs.
