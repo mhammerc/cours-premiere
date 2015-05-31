@@ -34,4 +34,4 @@ En effet, s'ils sont de sens opposés, un vecteur effectuent une force dans le s
 
 Supposons le contexte suivant :
 
-![Deux vecteurs](
+![Deux vecteurs](151182254.png)
