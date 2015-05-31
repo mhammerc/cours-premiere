@@ -1,0 +1,5 @@
+# La poésie surréaliste
+
+La poésie surréaliste est un mouvement littéraire qui apparait juste après la 1° guerre mondiale. Les poètes traumatisés cherchent à trouver un sens à la vie humaine. Ce courant littéraire profite également de l'influence des travaux de Freud qui découvre l'existence de l'inconscient et met en place la psychanalyse : méthode térapeutique qui libère l'inconscient en le laissant s'exprimer. Ses techniques vont influencer les écrivains surréalistes qui vont emprunter ses techniques et proposer de nouvelles forme d'écritures et laisser la parole à cet imaginaire : les récits de rêve.
+
+L'hypone et autre pratiques permettent de libérer l'inconscient. Ils vont aussi inventer des jeux d'écriture comme le cadavre exquis qui consiste à compléter une phrase par différents groupes de personnes. Ils vont procéder à des associations d'images d'univers opposés faisant naitre une autre réalité. L'écriture automatique définit par André Breton est une autre technique. Pour la mettre en pratique il suffit juste de prendre un crayon, une feuille et d'écrire tout ce qui nous passe par la tête en laissant notre inconscient guider notre plume.
