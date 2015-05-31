@@ -35,3 +35,37 @@ En effet, s'ils sont de sens opposés, un vecteur effectuent une force dans le s
 Supposons le contexte suivant :
 
 ![Deux vecteurs](151182254.png)
+
+Nous avons donc deux vecteurs $$\vec{AB}$$ et $$\vec{CD}$$ respectivement de norme 4 et 8, ils ont la même direction et le même sens. Nous appliquerions alors la formule de la manière suivante :
+
+$$\vec{AB} \cdot \vec{CD} = ||\vec{AB}|| \times ||\vec{CD}|| = 4 \times 8 = 32$$ 
+
+Ainsi le produit scalaire de $$\vec{AB}$$ et $$\vec{CD}$$ vaut $$32$$.
+
+### Dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$)
+
+#### La théorie
+
+Si vous êtes dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$) et que vous avez deux vecteurs $$\vec{u}(x;y)$$ et $$\vec{v}(x';y')$$ et que vous connaissez leurs coordonnées, voici une équation permettant de calculer leur produit scalaire :
+
+$$\vec{u} \cdot \vec{v} = xx' + yy'$$
+
+#### Un cas pratique
+ 
+Supposons qu'il vous est donné les deux vecteurs suivants : $$\vec{u}(5;8)$$ et $$\vec{v}(3;-5)$$. Alors leur produit scalaire sera :
+
+$$\vec{u} \cdot \vec{v} = 5 \times 3 + 8 \times (-5) = 15 - 40 = -25$$
+
+### Si vous connaissez l'angle entre les deux vecteurs
+
+#### La théorie
+
+Si vous connaissez l'angle entre les deux vecteurs, alors l'équation suivante est possible :
+
+$$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v})$$
+
+#### Un cas pratique
+
+Par exemple nous avons le vecteur $$\vec{u}$$ de norme $$3$$ et le vecteur $$\vec{v}$$ de norme $$6$$. Et l'angle entre ces deux vecteurs est $$\frac{\pi}{3}$$ (en radian). **N'oubliez pas de programmez votre calculatrice en radian.** Alors l'équation exacte sera :
+
+$$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v}) = 3 \times 6 \times cos(\frac{\pi}{3}) = 9$$
