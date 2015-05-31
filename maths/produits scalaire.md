@@ -158,3 +158,15 @@ $$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2
 $$= \frac{1}{2}(5.66^2 - 3.16^2 - 3.16^2) = 6.0322$$
 
 Tout simplement !!
+
+## Encore plus sur les produits scalaires
+
+## Un vecteur normal à une droite
+
+*Un vecteur est normal à une droite lorsque celui-ci est orthogonal (càd. perpendiculaire) à une droite.*
+
+Pour rappel, l'équation cartesienne d'une droite est $$d: ax + by + c = 0$$
+
+Sachant cela, nous pouvons admettre qu'un vecteur normal à cette droite aura pour coordonnées $$\vec{v}(a;b)$$. La preuve en image :
+
+![](15123264.png)
