@@ -70,6 +70,6 @@ $$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \ve
 
 ![](151191041.png)
 
-Par exemple nous avons le vecteur $$\vec{u}$$ de norme $$3$$ et le vecteur $$\vec{v}$$ de norme $$6$$. Et l'angle entre ces deux vecteurs est $$\frac{\pi}{3}$$ (en radian). **N'oubliez pas de programmez votre calculatrice en radian.** Alors l'équation exacte sera :
+Par exemple nous avons le vecteur $$\vec{AB}$$ de norme $$4$$ et le vecteur $$\vec{AC}$$ de norme $$2$$. Et l'angle entre ces deux vecteurs est de $$45°$$ (en degrès). **N'oubliez pas de programmez votre calculatrice en degrès.** Alors l'équation exacte sera :
 
-$$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v}) = 3 \times 6 \times cos(\frac{\pi}{3}) = 9$$
+$$\vec{AB} \cdot \vec{AC} = ||\vec{AB}|| \times ||\vec{AC}|| \times cos(\vec{AB}, \vec{AC}) = 4 \times 2 \times cos(45) = 4\sqrt{2}$$
