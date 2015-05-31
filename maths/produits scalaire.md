@@ -26,11 +26,11 @@ $$3*(5+4) = 3*5 + 3*4$$
 
 C'est la distributivité, rien de plus. Les produits scalaire fonctionnent de la même manière : 
 
-$$\vec{a} \cdot (\vec{b} + \vec{c}) = \vec{a} \cdot \vec{b} + \vec{a} \cdot \vec{c}$$
+**$$\vec{a} \cdot (\vec{b} + \vec{c}) = \vec{a} \cdot \vec{b} + \vec{a} \cdot \vec{c}$$**
 
 **Seconde propriété** : On nomme cela *l'homogénéité*. Tout ce qu'il y a à retenir à propos de ceci est que l'on peut déplacer un nombre aisément dans une équation de ce type :
 
-$$\vec{b} \cdot (a * \vec{c}) = a * (\vec{b} \cdot \vec{c})$$
+**$$\vec{b} \cdot (a * \vec{c}) = a * (\vec{b} \cdot \vec{c})$$**
 
 Sachant que $$a$$ est un nombre. Cela peut être pratique pour résoudre ce type d'équation, car au final vous n'avez plus qu'à appliquer un coefficient au résultat d'un produit scalaire.
 
@@ -44,7 +44,7 @@ En fonction des données que vous possédez, voici les différentes manières de
 
 C'est le cas le plus simple. Supposons que nous avons une force $$\vec{F}$$ et un vecteur $$\vec{AB}$$ colinéaires et de même sens. Ils sont donc parallèles et peuvent être superposés. Supposons également que nous connaissons ou que nous pouvons déduire la norme de ces vecteurs. Le produits scalaire de ces deux vecteurs sera donc :
 
-$$\vec{F} \cdot \vec{AB} = ||\vec{F}|| \times ||\vec{AB}||$$
+**$$\vec{F} \cdot \vec{AB} = ||\vec{F}|| \times ||\vec{AB}||$$**
 
 *Rappel* : La norme d'un vecteur $$\vec{u}$$ s'écrit $$||\vec{u}||$$. La norme est la "*longueur*" d'un vecteur. Sur un repère orthonormée, celle-ci peut se lire graphiquement sinon vous pouvez la calculer avec $$\sqrt{x^2 + y^2}$$.
 
@@ -98,7 +98,7 @@ Vous obtenez donc le vecteur $$\vec{CF}$$ qui est la projection de $$\vec{CD}$$ 
 
 Si vous êtes dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$) et que vous avez deux vecteurs $$\vec{u}(x;y)$$ et $$\vec{v}(x';y')$$ et que vous connaissez leurs coordonnées, voici une équation permettant de calculer leur produit scalaire :
 
-$$\vec{u} \cdot \vec{v} = xx' + yy'$$
+**$$\vec{u} \cdot \vec{v} = xx' + yy'$$**
 
 #### Un cas pratique
 
@@ -114,7 +114,7 @@ $$\vec{AB} \cdot \vec{CD} = (8 \times 2) + ((-2) \times 1) = 16 - 2 = 14$$
 
 Si vous connaissez l'angle entre les deux vecteurs, alors l'équation suivante est possible :
 
-$$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v})$$
+**$$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v})$$**
 
 #### Un cas pratique
 
@@ -130,7 +130,7 @@ $$\vec{AB} \cdot \vec{AC} = ||\vec{AB}|| \times ||\vec{AC}|| \times cos(\vec{AB}
 
 Si vous devez calculer un produit scalaire mais que vous ne connaissez que la norme de vos vecteurs et qu'ils ne sont pas colinéaires (et donc vous ne savez pas l'angle, ni les coordonnées) et que vous ne voulez pas faire de projection, alors voici la formule :
 
-$$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2} - ||\vec{v}||^{2})$$
+**$$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2} - ||\vec{v}||^{2})$$**
 
 #### Un cas pratique
 
