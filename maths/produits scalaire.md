@@ -14,6 +14,8 @@ Nous n'utilisons pas le signe $$\times$$ (multiplier) mais bien le $$\cdot$$ qui
 
 ## Comment calculer un produit scalaire ?
 
+En fonction des données que vous possédez, voici les différentes manières de calculer un produit scalaire de deux vecteurs.
+
 ### Avec des vecteurs colinéaires
 
 #### La théorie
