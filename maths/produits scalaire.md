@@ -113,3 +113,9 @@ $$\vec{u} \cdot \vec{v} = \frac{1}{2}(||\vec{u} + \vec{v}||^{2} - ||\vec{u}||^{2
 Supposons le contexte suivant :
 
 ![](151202531.png)
+
+Nous devons calculer le produit scalaire de ces deux vecteurs. Voici le calcul :
+
+$$\vec{AB} \cdot \vec{CD} = \frac{1}{2}(||\vec{AB} + \vec{CD}||^{2} - ||\vec{AB}||^{2} - ||\vec{CD}||^{2}) = \frac{1}{2}(3.65^{2} - 1.41^{2} - 2.24^{2}) = 3.1584$$
+
+Tout simplement !!
