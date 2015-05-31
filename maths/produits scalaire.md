@@ -31,3 +31,7 @@ $$\vec{F} \cdot \vec{AB} = -||\vec{F}|| \times ||\vec{AB}||$$
 En effet, s'ils sont de sens opposés, un vecteur effectuent une force dans le sens opposé à l'autre vecteur, ainsi la force est négative. Il faut donc multiplier les deux normes par une force positive et une force négative.
 
 #### Un cas pratique
+
+Supposons le contexte suivant :
+
+![Deux vecteurs](
