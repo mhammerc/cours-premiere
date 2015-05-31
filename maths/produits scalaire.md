@@ -46,15 +46,17 @@ Ainsi le produit scalaire de $$\vec{AB}$$ et $$\vec{CD}$$ vaut $$32$$.
 
 #### La théorie
 
-Si vous êtes dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$) et que vous avez deux vecteurs $$\vec{u}(x;y)$$ et $$\vec{v}(x';y')$$ et que vous connaissez leurs coordonnées![](15119536.png), voici une équation permettant de calculer leur produit scalaire :
+Si vous êtes dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$) et que vous avez deux vecteurs $$\vec{u}(x;y)$$ et $$\vec{v}(x';y')$$ et que vous connaissez leurs coordonnées, voici une équation permettant de calculer leur produit scalaire :
 
 $$\vec{u} \cdot \vec{v} = xx' + yy'$$
 
 #### Un cas pratique
- 
-Supposons qu'il vous est donné les deux vecteurs suivants : $$\vec{u}(5;8)$$ et $$\vec{v}(3;-5)$$. Alors leur produit scalaire sera :
 
-$$\vec{u} \cdot \vec{v} = 5 \times 3 + 8 \times (-5) = 15 - 40 = -25$$
+![](15119536.png)
+
+Supposons qu'il vous est donné les deux vecteurs suivants : $$\vec{AB}(8;-2)$$ et $$\vec{CD}(2;1)$$. Alors leur produit scalaire sera :
+
+$$\vec{AB} \cdot \vec{CD} = (8 \times 2) + ((-2) \times 1) = 16 - 2 = 14$$
 
 ### Si vous connaissez l'angle entre les deux vecteurs
 
@@ -65,6 +67,8 @@ Si vous connaissez l'angle entre les deux vecteurs, alors l'équation suivante e
 $$\vec{u} \cdot \vec{v} = ||\vec{u}|| \times ||\vec{v}|| \times cos(\vec{u}, \vec{v})$$
 
 #### Un cas pratique
+
+![](151191041.png)
 
 Par exemple nous avons le vecteur $$\vec{u}$$ de norme $$3$$ et le vecteur $$\vec{v}$$ de norme $$6$$. Et l'angle entre ces deux vecteurs est $$\frac{\pi}{3}$$ (en radian). **N'oubliez pas de programmez votre calculatrice en radian.** Alors l'équation exacte sera :
 
