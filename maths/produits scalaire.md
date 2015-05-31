@@ -16,7 +16,9 @@ Nous n'utilisons pas le signe $$\times$$ (multiplier) mais bien le $$\cdot$$ qui
 
 ### Avec des vecteurs colinéaires
 
-C'est le cas le plus simple. Supposons que nous avons une force $$\vec{F}$$ et un vecteur $$\vec{AB}$$ colinéaires et de même sens. Ils sont donc parallèles et peuvent être superposés. Le produits scalaire de ces deux vecteurs sera donc :
+#### La théorie
+
+C'est le cas le plus simple. Supposons que nous avons une force $$\vec{F}$$ et un vecteur $$\vec{AB}$$ colinéaires et de même sens. Ils sont donc parallèles et peuvent être superposés. Supposons également que nous connaissons ou que nous pouvons déduire la norme de ces vecteurs. Le produits scalaire de ces deux vecteurs sera donc :
 
 $$\vec{F} \cdot \vec{AB} = ||\vec{F}|| \times ||\vec{AB}||$$
 
@@ -27,3 +29,5 @@ $$\vec{F} \cdot \vec{AB} = ||\vec{F}|| \times ||\vec{AB}||$$
 $$\vec{F} \cdot \vec{AB} = -||\vec{F}|| \times ||\vec{AB}||$$
 
 En effet, s'ils sont de sens opposés, un vecteur effectuent une force dans le sens opposé à l'autre vecteur, ainsi la force est négative. Il faut donc multiplier les deux normes par une force positive et une force négative.
+
+#### Un cas pratique
