@@ -1,5 +1,0 @@
-# Glossary
-
-## dsqd
-
-qsd
