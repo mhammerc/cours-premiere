@@ -42,6 +42,12 @@ $$\vec{u} \cdot \vec{u} = \vec{u}^2 = ||\vec{u}|| * ||\vec{u}|| = ||\vec{u}||^2$
 
 $$(\vec{u} + \vec{v})^2 = ||\vec{u}||^2 + 2 (\vec{u} \cdot \vec{v}) + ||\vec{v}||^2$$
 
+**Cinquième propriété** : Si deux vecteurs sont orthogonaux (càd. perpendiculaires), alors leur produit scalaire sera nul. Imaginons être dans le contexte suivant :
+
+![](15123917.png)
+
+Alors $$\vec{AB} \cdot \vec{AC} = 0$$ obligatoirement.
+
 ## Comment calculer un produit scalaire ?
 
 En fonction des données que vous possédez, voici les différentes manières de calculer un produit scalaire de deux vecteurs.
