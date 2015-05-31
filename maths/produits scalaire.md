@@ -62,6 +62,10 @@ La première étape de de créer une droite perpendiculaire au vecteur $$\vec{AB
 
 ![](1512015.png)
 
+Ensuite vous devez simplement créer une autre droite perpendiculaire à la droite que vous venez de créer qui passe par l'origine du vecteur que vous êtes en train de projecter. Nommez le nouveau point obtenu comme vous voulez, $$F$$ dans l'exemple actuel ou $$D'$$ par exemple.
+
+![](1512029.png)
+
 ### Dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$)
 
 #### La théorie
