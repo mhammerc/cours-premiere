@@ -46,13 +46,13 @@ Ainsi le produit scalaire de $$\vec{AB}$$ et $$\vec{CD}$$ vaut $$32$$.
 
 #### La théorie et la pratique
 
-Parceque donner une théorie à ceci est compliqué, voyons la pratique directement. C'est exactement la même chose que avec des vecteurs colinéaires (voir juste au dessus) sauf que nous devons faire une **projection** avant. Voyez l'image suivante :
+Parceque donner une théorie à ceci est compliqué, voyons la pratique directement. C'est exactement la même chose qu'avec des vecteurs colinéaires (voir juste au dessus) sauf que nous devons faire une **projection** avant. Voyez l'image suivante :
 
-![](151192049.png)
+![](15119585.png)
 
-Comme vous le voyez, le vecteur $$\vec{AB}$$ n'est pas colinéaire avec le vecteur $$\vec{AC}$$. Nous devons donc le "rendre" colinéaire. C'est ce que nous appelons faire une **projection**.
+Comme vous le voyez, le vecteur $$\vec{AB}$$ n'est pas colinéaire avec le vecteur $$\vec{CD}$$. Nous devons donc le "rendre" colinéaire. C'est ce que nous appelons faire une **projection**.
 
-Pour faire ceci, nous devons ramener le point $$C$$ sur $$AB$$ (ou si les vecteurs n'ont pas la même origine, nous devons ramener le point $$C$$ de manière à ce que $$AC'$$ $$AB$$ deviennent parallèles). Ce nouveau point se nommera $$C'$$.
+Si l'origine des vecteurs est au même endroit ou si l'origine des vecteurs est sur la même droite, nous devons ramener le point $$D$$ sur le vecteur $$\vec{AB}$$. Sinon, nous devons ramenez le point $$D$$ de sorte à ce que $$CD'$$ devienne parallèle à $$AB$$.
 
 Pour trouver la location de ce point, rien de plus simple ! Imaginons que nous souhaitons faire une projection de $$\vec{CD}$$ sur $$\vec{AB}$$ dans ce contexte :
 
@@ -65,6 +65,8 @@ La première étape de de créer une droite perpendiculaire au vecteur $$\vec{AB
 Ensuite vous devez simplement créer une autre droite perpendiculaire à la droite que vous venez de créer qui passe par l'origine du vecteur que vous êtes en train de projecter. Nommez le nouveau point obtenu comme vous voulez, $$F$$ dans l'exemple actuel ou $$D'$$ par exemple.
 
 ![](1512029.png)
+
+Vous obtenez donc le vecteur $$\vec{CF}$$ qui est la projection de $$\vec{CD}$$ sur $$\vec{AB}$$. Maintenant vous pouvez calculer le produit scalaire grâce à cette équation : $$\vec{AB} \cdot \vec{CD} = \vec{AB} \cdot \vec{CF}$$. En effet suivant cette règle et sachant que le vecteur $$\vec{CF}$$ est colinéaire au vecteur $$\vec{AB}$$, vous pouvez utiliser la méthode énoncé juste au dessus !
 
 ### Dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$)
 
