@@ -54,7 +54,9 @@ Comme vous le voyez, le vecteur $$\vec{AB}$$ n'est pas colinéaire avec le vecte
 
 Pour faire ceci, nous devons ramener le point $$C$$ sur $$AB$$ (ou si les vecteurs n'ont pas la même origine, nous devons ramener le point $$C$$ de manière à ce que $$AC'$$ $$AB$$ deviennent parallèles). Ce nouveau point se nommera $$C'$$.
 
-Pour trouver la location de ce point, rien de plus simple ! Partez du point $$C$$ et tracez une ligne imaginaire allant de $$C$$ jusque $$AB$$. Cette ligne imaginaire doit être perpendiculaire à $$AB$$. Une fois fait, tracez une seconde ligne imaginaire entre l'origine du vecteur dont vous faites la projection 
+Pour trouver la location de ce point, rien de plus simple ! Imaginons que nous souhaitons faire une projection de $$\vec{CD}$$ sur $$\vec{AB}$$ dans ce contexte :
+
+![](15119585.png)
 
 ### Dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$)
 
