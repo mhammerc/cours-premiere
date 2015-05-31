@@ -58,6 +58,10 @@ Pour trouver la location de ce point, rien de plus simple ! Imaginons que nous s
 
 ![](15119585.png)
 
+La première étape de de créer une droite perpendiculaire au vecteur $$\vec{AB}$$ passant par l'extrémité du vecteur $$\vec{CD}$$, le point $$D$$.
+
+![](1512015.png)
+
 ### Dans un repère orthonormal ($$O, \vec{i}, \vec{j}$$)
 
 #### La théorie
