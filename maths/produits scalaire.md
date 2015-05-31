@@ -170,3 +170,7 @@ Pour rappel, l'équation cartesienne d'une droite est $$d: ax + by + c = 0$$
 Sachant cela, nous pouvons admettre qu'un vecteur normal à cette droite aura pour coordonnées $$\vec{v}(a;b)$$. La preuve en image :
 
 ![](15123264.png)
+
+Sachant cela, nous pouvons également admettre que le vecteur $$\vec{v}(-b;a)$$ est le vecteur directeur de la droite. La preuve en image une fois de plus :
+
+![](151233429.png)
