@@ -6,8 +6,8 @@
     * *B) Association au temps et amours*
     * *C) Permanence et solitude du moi*
 * **II) La volonté de faire un poème musical**
-    * *A) ?*
-    * *B) Légéreté des verbes*
+    * *A) L'apparence de chanson*
+    * *B) Légèreté des vers*
 * **III) Element de modernité**
     * *A) Un poème calligramme*
     * *B) Interprétation ambigüe*
@@ -47,10 +47,49 @@ Disparition : *coule* vers 9, *passe* vers 9, *passent* vers 19, *demeure* vers 
 
 ## II) La volonté de faire un poème musical
 
-#### A) Grand A
+### A) L'apparence de chason
 
-XX
+*"De la musique avant toute chose" - Verlaine*
 
-#### B) Grand B
+Prend l'apparence de chanson -> composition :
+  * Alterne 4 quatrains (couplets) + le même distique (refrain)
+  * Structure cyclique -> le premier vers est identique au dernier -> achèvement en cycle
+  * Echo sonore :
+    * Allitération en 'l' (eau coule, fluide) + assonance en 'ou'
+    * répétition : plainte, forme incantatoire
 
-XX
+Ritournelle obsédante : mots clés : amour, pont, s'en aller, jours, polyptote passe, sous.
+
+### B) Légèreté des vers
+
+Chaque couplet -> même schéma métrique : décasyllabe (10), tétrasyllabe (4), hexasyllabe (6) et décasyllabe **->** rythme régulièrement après refrain (= 2 heptasyllabes, vers impairs -> musicalité)
+
+*"Et pour cela préfère l'impair,
+Plus vague et plus soluble dans l'air"* - Verlaine
+
+Verlaine conseillait les vers impairs au vers pair.
+
+## III) Elément de modernité 
+
+### A) La forme
+
+C'est un *poème calligramme* : ce poème parle de la fuite du temps hors il as :
+  * 24 vers = 24h d'une journée
+  * Une forme circulaire -> cycle des jours, boucle infinie
+
+=> Volonté du poète à donner une forme à ses poèmes -> caligramme.
+
+### B) Une interprétation ambigue
+
+En plus du découpage, aucune ponctuation n'est visible. Cela crée une incertitude sur l'interprétation.
+  * *"Et nos amours"* V.2 -> soit lié au sujet *"la Seine" V.1 commandant le verbe *"couler"* -> les amours tombent à l'eau
+  * Soit il est lié au V.3 COI de souvienne, *"en"* pronom adverbal s'il doit se rappeler de ses amours.
+
+### C) Un cadre urbain
+
+Thème romantique de la fuite du temps, écoulement de l'eau, fugacité de l'amour, renouvelé par Apollinaire -> il propose un cadre urbain inhabituel (généralement ce sont des cadres naturels) et des scène d'amours.
+
+## Conclusion
+
+Thème romantique utilisé plus la musicalité, la forme spéciale, l'ambiguité du texte et le cadre urbain.
+Ouverture sur le topos de la fuite du temps -> Lamartine, Carpe Diem.
