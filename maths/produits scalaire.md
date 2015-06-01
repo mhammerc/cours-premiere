@@ -16,7 +16,8 @@ Nous n'utilisons pas le signe $$\times$$ (multiplier) mais bien le $$\cdot$$ qui
 
 Les produits scalaire, comme la multiplication ou n'importe quel autre élément mathématiques possèdent des propriétés. Celle-ci sont extrêmement simple, prenez le temps de les lire et de les comprendre, vous serez surpris de leur simplicité.
 
-**Première propriété** : Tout comme les multiplications, les produits scalaires se distribuent. Par exemple dans une multiplication nous pouvons avoir ceci : 
+### Première propriété
+Tout comme les multiplications, les produits scalaires se distribuent. Par exemple dans une multiplication nous pouvons avoir ceci : 
 
 $$a*(b+c) = a*b + a*c$$
 
@@ -28,21 +29,25 @@ C'est la distributivité, rien de plus. Les produits scalaire fonctionnent de la
 
 $$\vec{a} \cdot (\vec{b} + \vec{c}) = \vec{a} \cdot \vec{b} + \vec{a} \cdot \vec{c}$$
 
-**Seconde propriété** : On nomme cela *l'homogénéité*. Tout ce qu'il y a à retenir à propos de ceci est que l'on peut déplacer un nombre aisément dans une équation de ce type :
+### Seconde propriété
+On nomme cela *l'homogénéité*. Tout ce qu'il y a à retenir à propos de ceci est que l'on peut déplacer un nombre aisément dans une équation de ce type :
 
 $$\vec{b} \cdot (a * \vec{c}) = a * (\vec{b} \cdot \vec{c})$$
 
 Sachant que $$a$$ est un nombre. Cela peut être pratique pour résoudre ce type d'équation, car au final vous n'avez plus qu'à appliquer un coefficient au résultat d'un produit scalaire.
 
-**Troisième propriété** : Admettons $$\vec{u} \cdot \vec{u}$$. Ceci n'est rien d'autre que $$||\vec{u}|| * ||\vec{u}$$ ! Donc cette propriété nous donne l'équation :
+### Troisième propriété
+Admettons $$\vec{u} \cdot \vec{u}$$. Ceci n'est rien d'autre que $$||\vec{u}|| * ||\vec{u}$$ ! Donc cette propriété nous donne l'équation :
 
 $$\vec{u} \cdot \vec{u} = \vec{u}^2 = ||\vec{u}|| * ||\vec{u}|| = ||\vec{u}||^2$$
 
-**Quatrième propriété** : Avec les trois précédentes propriétés, nous pouvons déduire d'autres propriétés. En effet, les identités remarquables fonctionnent aussi avec les produits scalaires.
+### Quatrième propriété
+Avec les trois précédentes propriétés, nous pouvons déduire d'autres propriétés. En effet, les identités remarquables fonctionnent aussi avec les produits scalaires.
 
 $$(\vec{u} + \vec{v})^2 = ||\vec{u}||^2 + 2 (\vec{u} \cdot \vec{v}) + ||\vec{v}||^2$$
 
-**Cinquième propriété** : Si deux vecteurs sont orthogonaux (càd. perpendiculaires), alors leur produit scalaire sera nul. Imaginons être dans le contexte suivant :
+### Cinquième propriété
+Si deux vecteurs sont orthogonaux (càd. perpendiculaires), alors leur produit scalaire sera nul. Imaginons être dans le contexte suivant :
 
 ![](15123917.png)
 
